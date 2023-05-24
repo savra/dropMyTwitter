@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class DropMyTwitterApplication
 
 fun main(args: Array<String>) {
-	runApplication<DropMyTwitterApplication>(*args)
+    runApplication<DropMyTwitterApplication>(*args)
 }
